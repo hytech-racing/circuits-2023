@@ -4391,9 +4391,6 @@ Source: &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabilities&quot;&gt;J
 <contactref element="R14" pad="2"/>
 <contactref element="R18" pad="2"/>
 <contactref element="R44" pad="2"/>
-<wire x1="23.634" y1="91.44" x2="28.448" y2="90.766" width="0" layer="19" extent="1-1"/>
-<wire x1="24.638" y1="34.124" x2="28.8925" y2="31.115" width="0" layer="19" extent="1-1"/>
-<wire x1="28.448" y1="82.638" x2="23.38" y2="84.836" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="LOAD_FL_EXT">
 <contactref element="J4" pad="3"/>
