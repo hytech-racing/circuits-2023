@@ -6154,6 +6154,26 @@ Layer: 94 Symbol</description>
 <pinref part="P13" gate="1" pin="GND"/>
 <pinref part="C10" gate="G$1" pin="2"/>
 </segment>
+<segment>
+<pinref part="P15" gate="1" pin="GND"/>
+<pinref part="R16" gate="G$1" pin="2"/>
+<wire x1="40.64" y1="73.66" x2="40.64" y2="76.2" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="P12" gate="1" pin="GND"/>
+<pinref part="R12" gate="G$1" pin="2"/>
+<wire x1="162.56" y1="124.46" x2="162.56" y2="127" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="P14" gate="1" pin="GND"/>
+<pinref part="R14" gate="G$1" pin="2"/>
+<wire x1="162.56" y1="76.2" x2="162.56" y2="78.74" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="R18" gate="G$1" pin="2"/>
+<pinref part="P16" gate="1" pin="GND"/>
+<wire x1="157.48" y1="177.8" x2="157.48" y2="175.26" width="0.1524" layer="91"/>
+</segment>
 </net>
 <net name="SPN_POT_1_EXT" class="0">
 <segment>
@@ -6264,18 +6284,6 @@ Layer: 94 Symbol</description>
 <pinref part="R22" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="GND1" class="0">
-<segment>
-<wire x1="162.56" y1="127" x2="162.56" y2="124.46" width="0.1524" layer="91"/>
-<pinref part="P12" gate="1" pin="GND"/>
-<pinref part="R12" gate="G$1" pin="2"/>
-</segment>
-<segment>
-<wire x1="40.64" y1="76.2" x2="40.64" y2="73.66" width="0.1524" layer="91"/>
-<pinref part="P15" gate="1" pin="GND"/>
-<pinref part="R16" gate="G$1" pin="2"/>
-</segment>
-</net>
 <net name="SPN_POT_5_EXT_5V" class="0">
 <segment>
 <wire x1="162.56" y1="139.7" x2="162.56" y2="137.16" width="0.1524" layer="91"/>
@@ -6291,18 +6299,6 @@ Layer: 94 Symbol</description>
 <wire x1="198.12" y1="144.78" x2="198.12" y2="149.86" width="0.1524" layer="91"/>
 <label x="198.12" y="149.86" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 <pinref part="R20" gate="G$1" pin="1"/>
-</segment>
-</net>
-<net name="GND2" class="0">
-<segment>
-<wire x1="162.56" y1="78.74" x2="162.56" y2="76.2" width="0.1524" layer="91"/>
-<pinref part="P14" gate="1" pin="GND"/>
-<pinref part="R14" gate="G$1" pin="2"/>
-</segment>
-<segment>
-<wire x1="157.48" y1="177.8" x2="157.48" y2="175.26" width="0.1524" layer="91"/>
-<pinref part="P16" gate="1" pin="GND"/>
-<pinref part="R18" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="SPN_POT_6_EXT_5V" class="0">
@@ -7736,6 +7732,11 @@ Layer: 94 Symbol</description>
 <pinref part="C103" gate="G$1" pin="2"/>
 <junction x="226.06" y="162.56"/>
 </segment>
+<segment>
+<pinref part="P149" gate="1" pin="GND"/>
+<pinref part="R44" gate="G$1" pin="2"/>
+<wire x1="200.66" y1="167.64" x2="200.66" y2="172.72" width="0.1524" layer="91"/>
+</segment>
 </net>
 <net name="LOAD_RL_EXT_5V" class="0">
 <segment>
@@ -8087,18 +8088,6 @@ Layer: 94 Symbol</description>
 <wire x1="33.02" y1="55.88" x2="33.02" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="33.02" y1="60.96" x2="30.48" y2="60.96" width="0.1524" layer="91"/>
 <label x="30.48" y="60.96" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
-</segment>
-</net>
-<net name="GND2" class="0">
-<segment>
-<wire x1="33.02" y1="35.56" x2="33.02" y2="33.02" width="0.1524" layer="91"/>
-<pinref part="P148" gate="1" pin="GND"/>
-<pinref part="R42" gate="G$1" pin="2"/>
-</segment>
-<segment>
-<wire x1="200.66" y1="172.72" x2="200.66" y2="167.64" width="0.1524" layer="91"/>
-<pinref part="P149" gate="1" pin="GND"/>
-<pinref part="R44" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="CURRENT_EXT_5V" class="0">
