@@ -4378,6 +4378,7 @@ Source: &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabilities&quot;&gt;J
 <vertex x="51.054" y="-0.254"/>
 <vertex x="51.054" y="152.654"/>
 </polygon>
+<contactref element="C45" pad="2"/>
 <wire x1="45.45" y1="119.87" x2="45.45" y2="121.87" width="0" layer="19" extent="1-1"/>
 <wire x1="45.45" y1="117.87" x2="45.45" y2="119.87" width="0" layer="19" extent="1-1"/>
 <wire x1="45.45" y1="115.87" x2="45.45" y2="117.87" width="0" layer="19" extent="1-1"/>
@@ -4396,14 +4397,14 @@ Source: &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabilities&quot;&gt;J
 <wire x1="45.45" y1="89.87" x2="45.45" y2="91.87" width="0" layer="19" extent="1-1"/>
 <wire x1="45.45" y1="87.87" x2="45.45" y2="89.87" width="0" layer="19" extent="1-1"/>
 <wire x1="45.45" y1="85.87" x2="45.45" y2="87.87" width="0" layer="19" extent="1-1"/>
-<wire x1="36.818" y1="107.95" x2="45.45" y2="107.87" width="0" layer="19" extent="1-1"/>
-<wire x1="36.818" y1="110.744" x2="36.818" y2="107.95" width="0" layer="19" extent="1-1"/>
-<wire x1="37.072" y1="116.332" x2="36.818" y2="110.744" width="0" layer="19" extent="1-1"/>
+<wire x1="37.072" y1="116.332" x2="45.45" y2="115.87" width="0" layer="19" extent="1-1"/>
 <wire x1="37.072" y1="119.126" x2="37.072" y2="116.332" width="0" layer="19" extent="1-1"/>
+<wire x1="36.818" y1="110.744" x2="37.072" y2="116.332" width="0" layer="19" extent="1-1"/>
+<wire x1="36.818" y1="107.95" x2="36.818" y2="110.744" width="0" layer="19" extent="1-1"/>
 <wire x1="27.8765" y1="116.459" x2="37.072" y2="116.332" width="0" layer="19" extent="1-1"/>
 <wire x1="25.4" y1="113.55" x2="27.8765" y2="116.459" width="0" layer="19" extent="1-1"/>
 <wire x1="23.114" y1="113.55" x2="25.4" y2="113.55" width="0" layer="19" extent="1-1"/>
-<wire x1="23.368" y1="111.086" x2="25.4" y2="113.55" width="0" layer="19" extent="1-1"/>
+<wire x1="23.368" y1="111.086" x2="23.114" y2="113.55" width="0" layer="19" extent="1-1"/>
 <wire x1="19.546" y1="112.268" x2="23.114" y2="113.55" width="0" layer="19" extent="1-1"/>
 <wire x1="19.546" y1="109.474" x2="19.546" y2="112.268" width="0" layer="19" extent="1-1"/>
 <wire x1="23.622" y1="119.468" x2="27.8765" y2="116.459" width="0" layer="19" extent="1-1"/>
@@ -4494,6 +4495,7 @@ Source: &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabilities&quot;&gt;J
 <wire x1="10.3505" y1="68.453" x2="7.874" y2="65.544" width="0" layer="19" extent="1-1"/>
 <wire x1="10.0965" y1="32.385" x2="7.62" y2="38.62" width="0" layer="19" extent="1-1"/>
 <wire x1="7.62" y1="29.476" x2="10.0965" y2="32.385" width="0" layer="19" extent="1-1"/>
+<wire x1="5.334" y1="29.476" x2="7.62" y2="29.476" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="LOAD_FL_EXT">
 <contactref element="J4" pad="3"/>

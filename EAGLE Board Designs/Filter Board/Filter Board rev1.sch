@@ -7697,6 +7697,8 @@ Layer: 94 Symbol</description>
 <junction x="68.58" y="50.8"/>
 <pinref part="P139" gate="1" pin="GND"/>
 <pinref part="C46" gate="G$1" pin="2"/>
+<pinref part="C45" gate="G$1" pin="2"/>
+<wire x1="55.88" y1="53.34" x2="55.88" y2="50.8" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="P140" gate="1" pin="GND"/>
