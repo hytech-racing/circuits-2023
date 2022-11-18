@@ -7737,6 +7737,11 @@ Layer: 94 Symbol</description>
 <pinref part="R44" gate="G$1" pin="2"/>
 <wire x1="200.66" y1="167.64" x2="200.66" y2="172.72" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="P148" gate="1" pin="GND"/>
+<pinref part="R42" gate="G$1" pin="2"/>
+<wire x1="33.02" y1="33.02" x2="33.02" y2="35.56" width="0.1524" layer="91"/>
+</segment>
 </net>
 <net name="LOAD_RL_EXT_5V" class="0">
 <segment>
