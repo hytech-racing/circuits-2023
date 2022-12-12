@@ -195,12 +195,14 @@
 <wire x1="50.8" y1="0" x2="50.8" y2="152.4" width="0.254" layer="20"/>
 <wire x1="50.8" y1="152.4" x2="0" y2="152.4" width="0.254" layer="20"/>
 <wire x1="0" y1="152.4" x2="0" y2="0" width="0.254" layer="20"/>
-<text x="2.54" y="14.732" size="1.397" layer="21" font="vector">HyTech Racing 2023
+<text x="2.54" y="12.954" size="1.397" layer="21" font="vector">HyTech Racing 2023
 Filter Board rev2
-Designed by Brendan Bassett</text>
-<text x="48.26" y="14.732" size="1.397" layer="22" font="vector" rot="MR0">HyTech Racing 2023
+Designed by Eric Galluzzi
+Brendan Bassett</text>
+<text x="48.26" y="12.954" size="1.397" layer="22" font="vector" rot="MR0">HyTech Racing 2023
 Filter Board rev2
-Designed by Brendan Bassett</text>
+Designed by Eric Galluzzi
+Brendan Bassett</text>
 </plain>
 <libraries>
 <library name="HyTechDevices">
@@ -3516,7 +3518,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="90.932" y="146.812" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="667-ERJ-PB3D3301V" x="90.932" y="146.812" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="ERJ-PB3D3301V" x="90.932" y="146.812" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="35.687" y="101.092" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="36.195" y="102.616" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.2W" x="90.932" y="146.812" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="RESISTANCE" value="3.3k" x="90.932" y="146.812" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TOLERANCE" value="0.5%" x="90.932" y="146.812" size="1.778" layer="27" rot="R90" display="off"/>
@@ -3672,7 +3674,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="-16.51" y="59.182" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="667-ERA-3ARW133V" x="-16.51" y="59.182" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="ERA-3ARW133V" x="-16.51" y="59.182" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="38.735" y="101.092" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="37.973" y="102.616" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="-16.51" y="59.182" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="RESISTANCE" value="13k" x="-16.51" y="59.182" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="TOLERANCE" value="0.05%" x="-16.51" y="59.182" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3774,7 +3776,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="34.544" y="101.092" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="34.544" y="101.092" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="34.544" y="101.092" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="33.909" y="101.092" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="34.417" y="102.616" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="34.544" y="101.092" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="34.544" y="101.092" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="34.544" y="101.092" size="1.778" layer="27" rot="R90" display="off"/>
@@ -3786,7 +3788,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="30.988" y="101.092" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="30.988" y="101.092" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="30.988" y="101.092" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="31.623" y="101.092" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="30.861" y="102.616" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="30.988" y="101.092" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="30.988" y="101.092" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="30.988" y="101.092" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3799,7 +3801,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="KEMET" x="32.766" y="101.092" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="80-C0603C683K8R" x="32.766" y="101.092" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="C0603C683K8RACTU" x="32.766" y="101.092" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="33.516" y="101.092" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="32.778" y="102.616" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="TOLERANCE" value="10%" x="32.766" y="101.092" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOLTAGE" value="10V" x="32.766" y="101.092" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
@@ -3809,7 +3811,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="KEMET" x="29.21" y="101.092" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="80-C0603C683K8R" x="29.21" y="101.092" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="C0603C683K8RACTU" x="29.21" y="101.092" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="28.46" y="101.092" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="29.222" y="102.616" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="TOLERANCE" value="10%" x="29.21" y="101.092" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VOLTAGE" value="10V" x="29.21" y="101.092" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
@@ -3818,7 +3820,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="41.148" y="95.6564" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="667-ERA-3ARW133V" x="41.148" y="95.6564" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="ERA-3ARW133V" x="41.148" y="95.6564" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="38.735" y="96.4184" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="37.973" y="97.8916" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="41.148" y="95.6564" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="RESISTANCE" value="13k" x="41.148" y="95.6564" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="TOLERANCE" value="0.05%" x="41.148" y="95.6564" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3830,7 +3832,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="36.322" y="94.1324" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="667-ERJ-PB3D3301V" x="36.322" y="94.1324" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="ERJ-PB3D3301V" x="36.322" y="94.1324" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="35.687" y="96.4184" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="36.195" y="97.9424" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.2W" x="36.322" y="94.1324" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="RESISTANCE" value="3.3k" x="36.322" y="94.1324" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TOLERANCE" value="0.5%" x="36.322" y="94.1324" size="1.778" layer="27" rot="R90" display="off"/>
@@ -3842,7 +3844,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="34.544" y="97.1804" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="34.544" y="97.1804" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="34.544" y="97.1804" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="33.909" y="96.4184" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="34.417" y="97.9424" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="34.544" y="97.1804" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="34.544" y="97.1804" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="34.544" y="97.1804" size="1.778" layer="27" rot="R90" display="off"/>
@@ -3854,7 +3856,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="27.94" y="98.7044" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="27.94" y="98.7044" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="27.94" y="98.7044" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="31.623" y="96.4184" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="30.861" y="97.8916" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="27.94" y="98.7044" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="27.94" y="98.7044" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="27.94" y="98.7044" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3867,7 +3869,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="KEMET" x="20.574" y="95.6564" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="80-C0603C683K8R" x="20.574" y="95.6564" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="C0603C683K8RACTU" x="20.574" y="95.6564" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="33.516" y="96.4184" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="32.778" y="97.8916" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="TOLERANCE" value="10%" x="20.574" y="95.6564" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOLTAGE" value="10V" x="20.574" y="95.6564" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
@@ -3877,7 +3879,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="KEMET" x="44.45" y="94.3864" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="80-C0603C683K8R" x="44.45" y="94.3864" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="C0603C683K8RACTU" x="44.45" y="94.3864" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="28.46" y="96.4184" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="29.222" y="97.9424" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="TOLERANCE" value="10%" x="44.45" y="94.3864" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VOLTAGE" value="10V" x="44.45" y="94.3864" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
@@ -3886,7 +3888,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="41.148" y="90.9828" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="667-ERA-3ARW133V" x="41.148" y="90.9828" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="ERA-3ARW133V" x="41.148" y="90.9828" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="38.735" y="91.7448" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="37.973" y="93.2688" size="0.6096" layer="25" font="vector" rot="R270" align="center-right"/>
 <attribute name="POWER" value="0.1W" x="41.148" y="90.9828" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="RESISTANCE" value="13k" x="41.148" y="90.9828" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="TOLERANCE" value="0.05%" x="41.148" y="90.9828" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3898,7 +3900,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="36.322" y="89.4588" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="667-ERJ-PB3D3301V" x="36.322" y="89.4588" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="ERJ-PB3D3301V" x="36.322" y="89.4588" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="35.687" y="91.7448" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="36.195" y="93.2688" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.2W" x="36.322" y="89.4588" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="RESISTANCE" value="3.3k" x="36.322" y="89.4588" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TOLERANCE" value="0.5%" x="36.322" y="89.4588" size="1.778" layer="27" rot="R90" display="off"/>
@@ -3910,7 +3912,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="34.544" y="92.5068" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="34.544" y="92.5068" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="34.544" y="92.5068" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="33.909" y="91.7448" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="34.417" y="93.2688" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="34.544" y="92.5068" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="34.544" y="92.5068" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="34.544" y="92.5068" size="1.778" layer="27" rot="R90" display="off"/>
@@ -3922,7 +3924,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="27.94" y="94.0308" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="27.94" y="94.0308" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="27.94" y="94.0308" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="31.623" y="91.7448" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="30.861" y="93.1672" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="27.94" y="94.0308" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="27.94" y="94.0308" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="27.94" y="94.0308" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3935,7 +3937,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="KEMET" x="20.574" y="90.9828" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="80-C0603C683K8R" x="20.574" y="90.9828" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="C0603C683K8RACTU" x="20.574" y="90.9828" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="33.516" y="91.7448" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="32.778" y="93.1672" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="TOLERANCE" value="10%" x="20.574" y="90.9828" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOLTAGE" value="10V" x="20.574" y="90.9828" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
@@ -3945,7 +3947,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="KEMET" x="44.45" y="89.7128" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="80-C0603C683K8R" x="44.45" y="89.7128" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="C0603C683K8RACTU" x="44.45" y="89.7128" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="28.46" y="91.7448" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="29.222" y="93.0148" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="TOLERANCE" value="10%" x="44.45" y="89.7128" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VOLTAGE" value="10V" x="44.45" y="89.7128" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
@@ -3954,7 +3956,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="41.148" y="92.1512" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="667-ERA-3ARW133V" x="41.148" y="92.1512" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="ERA-3ARW133V" x="41.148" y="92.1512" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="38.735" y="87.0712" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="37.973" y="88.6968" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="41.148" y="92.1512" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="RESISTANCE" value="13k" x="41.148" y="92.1512" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="TOLERANCE" value="0.05%" x="41.148" y="92.1512" size="1.778" layer="27" rot="R270" display="off"/>
@@ -3966,7 +3968,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="36.322" y="78.9432" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="667-ERJ-PB3D3301V" x="36.322" y="78.9432" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="ERJ-PB3D3301V" x="36.322" y="78.9432" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="35.687" y="87.0712" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="36.195" y="88.5952" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.2W" x="36.322" y="78.9432" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="RESISTANCE" value="3.3k" x="36.322" y="78.9432" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TOLERANCE" value="0.5%" x="36.322" y="78.9432" size="1.778" layer="27" rot="R90" display="off"/>
@@ -3978,7 +3980,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="34.544" y="87.8332" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="34.544" y="87.8332" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="34.544" y="87.8332" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="33.909" y="87.0712" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="34.417" y="88.5952" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="34.544" y="87.8332" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="34.544" y="87.8332" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="34.544" y="87.8332" size="1.778" layer="27" rot="R90" display="off"/>
@@ -3990,7 +3992,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="27.94" y="89.3572" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="27.94" y="89.3572" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="27.94" y="89.3572" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="31.623" y="87.0712" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="30.861" y="88.6968" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="27.94" y="89.3572" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="27.94" y="89.3572" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="27.94" y="89.3572" size="1.778" layer="27" rot="R270" display="off"/>
@@ -4003,7 +4005,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="KEMET" x="20.574" y="86.3092" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="80-C0603C683K8R" x="20.574" y="86.3092" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="C0603C683K8RACTU" x="20.574" y="86.3092" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="33.516" y="87.0712" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="32.778" y="88.6968" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="TOLERANCE" value="10%" x="20.574" y="86.3092" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOLTAGE" value="10V" x="20.574" y="86.3092" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
@@ -4013,7 +4015,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="KEMET" x="44.45" y="85.0392" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="80-C0603C683K8R" x="44.45" y="85.0392" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="C0603C683K8RACTU" x="44.45" y="85.0392" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="28.46" y="87.0712" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="29.222" y="88.5952" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="TOLERANCE" value="10%" x="44.45" y="85.0392" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VOLTAGE" value="10V" x="44.45" y="85.0392" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
@@ -4022,7 +4024,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="25.908" y="87.7316" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="667-ERA-3ARW133V" x="25.908" y="87.7316" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="ERA-3ARW133V" x="25.908" y="87.7316" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="38.735" y="82.3976" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="37.973" y="83.9724" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="25.908" y="87.7316" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="RESISTANCE" value="13k" x="25.908" y="87.7316" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="TOLERANCE" value="0.05%" x="25.908" y="87.7316" size="1.778" layer="27" rot="R270" display="off"/>
@@ -4034,7 +4036,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="51.562" y="74.0156" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="667-ERJ-PB3D3301V" x="51.562" y="74.0156" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="ERJ-PB3D3301V" x="51.562" y="74.0156" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="35.687" y="82.3976" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="36.195" y="83.9216" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.2W" x="51.562" y="74.0156" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="RESISTANCE" value="3.3k" x="51.562" y="74.0156" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TOLERANCE" value="0.5%" x="51.562" y="74.0156" size="1.778" layer="27" rot="R90" display="off"/>
@@ -4046,7 +4048,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="49.784" y="83.1596" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="49.784" y="83.1596" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="49.784" y="83.1596" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="33.909" y="82.3976" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="34.417" y="83.9216" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="49.784" y="83.1596" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="49.784" y="83.1596" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="49.784" y="83.1596" size="1.778" layer="27" rot="R90" display="off"/>
@@ -4058,7 +4060,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="12.7" y="84.6836" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="12.7" y="84.6836" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="12.7" y="84.6836" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="31.623" y="82.3976" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="30.861" y="83.9724" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="12.7" y="84.6836" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="12.7" y="84.6836" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="12.7" y="84.6836" size="1.778" layer="27" rot="R270" display="off"/>
@@ -4071,7 +4073,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="KEMET" x="2.286" y="87.2236" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="80-C0603C683K8R" x="2.286" y="87.2236" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="C0603C683K8RACTU" x="2.286" y="87.2236" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="33.516" y="82.3976" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="32.778" y="83.9724" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="TOLERANCE" value="10%" x="2.286" y="87.2236" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOLTAGE" value="10V" x="2.286" y="87.2236" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
@@ -4081,7 +4083,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="KEMET" x="62.738" y="74.7776" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="80-C0603C683K8R" x="62.738" y="74.7776" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="C0603C683K8RACTU" x="62.738" y="74.7776" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="28.206" y="82.3976" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="29.222" y="83.9216" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="TOLERANCE" value="10%" x="62.738" y="74.7776" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VOLTAGE" value="10V" x="62.738" y="74.7776" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
@@ -4090,7 +4092,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="10.668" y="83.058" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="667-ERA-3ARW133V" x="10.668" y="83.058" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="ERA-3ARW133V" x="10.668" y="83.058" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="38.735" y="77.724" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="37.973" y="79.248" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="10.668" y="83.058" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="RESISTANCE" value="13k" x="10.668" y="83.058" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="TOLERANCE" value="0.05%" x="10.668" y="83.058" size="1.778" layer="27" rot="R270" display="off"/>
@@ -4102,7 +4104,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Panasonic Electronic Components" x="66.802" y="69.342" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="667-ERJ-PB3D3301V" x="66.802" y="69.342" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="ERJ-PB3D3301V" x="66.802" y="69.342" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="35.687" y="77.724" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="36.195" y="79.248" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.2W" x="66.802" y="69.342" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="RESISTANCE" value="3.3k" x="66.802" y="69.342" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TOLERANCE" value="0.5%" x="66.802" y="69.342" size="1.778" layer="27" rot="R90" display="off"/>
@@ -4114,7 +4116,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="65.024" y="78.486" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="65.024" y="78.486" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="65.024" y="78.486" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="33.909" y="77.724" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="34.417" y="79.248" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="65.024" y="78.486" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="65.024" y="78.486" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="65.024" y="78.486" size="1.778" layer="27" rot="R90" display="off"/>
@@ -4126,7 +4128,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="-2.54" y="80.01" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="-2.54" y="80.01" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="-2.54" y="80.01" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="31.623" y="77.724" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="30.861" y="79.248" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="-2.54" y="80.01" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="-2.54" y="80.01" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="-2.54" y="80.01" size="1.778" layer="27" rot="R270" display="off"/>
@@ -4139,7 +4141,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="KEMET" x="-12.954" y="76.962" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="80-C0603C683K8R" x="-12.954" y="76.962" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="C0603C683K8RACTU" x="-12.954" y="76.962" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="33.516" y="77.724" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="32.778" y="79.248" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="TOLERANCE" value="10%" x="-12.954" y="76.962" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOLTAGE" value="10V" x="-12.954" y="76.962" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
@@ -4149,7 +4151,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="KEMET" x="77.978" y="75.692" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="80-C0603C683K8R" x="77.978" y="75.692" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="C0603C683K8RACTU" x="77.978" y="75.692" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="28.46" y="77.47" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="29.222" y="79.248" size="0.6096" layer="25" font="vector" rot="R90" align="center-left"/>
 <attribute name="TOLERANCE" value="10%" x="77.978" y="75.692" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VOLTAGE" value="10V" x="77.978" y="75.692" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
@@ -4158,7 +4160,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="30.226" y="42.164" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="30.226" y="42.164" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="30.226" y="42.164" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="32.639" y="41.402" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="31.369" y="42.926" size="0.8128" layer="25" font="vector" rot="R270" align="center-right"/>
 <attribute name="POWER" value="0.1W" x="30.226" y="42.164" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="30.226" y="42.164" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="30.226" y="42.164" size="1.778" layer="27" rot="R90" display="off"/>
@@ -4170,22 +4172,22 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="38.1" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="38.1" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="38.1" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="35.687" y="41.402" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
+<attribute name="NAME" x="34.925" y="42.926" size="0.8128" layer="25" font="vector" rot="R270" align="center-right"/>
 <attribute name="POWER" value="0.1W" x="38.1" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="38.1" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="38.1" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOLTAGE_CONTINUOUS" value="31.62V" x="38.1" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VOLTAGE_MAX" value="75V" x="38.1" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="C2" library="HyTechDevices" package="0603-CAP" value="CAPACITOR_0603_10V_68NF" x="31.242" y="41.402" smashed="yes" rot="R270">
-<attribute name="CAPACITANCE" value="68nF" x="25.146" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="DKPN" value="399-C0603C683K8RAC7867CT-ND" x="25.146" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MANUFACTURER" value="KEMET" x="25.146" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MOPN" value="80-C0603C683K8R" x="25.146" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MPN" value="C0603C683K8RACTU" x="25.146" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="31.992" y="41.402" size="0.8128" layer="25" font="vector" rot="R270" align="bottom-center"/>
-<attribute name="TOLERANCE" value="10%" x="25.146" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VOLTAGE" value="10V" x="25.146" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
+<element name="C2" library="HyTechDevices" package="0603-CAP" value="CAPACITOR_0603_10V_68NF" x="31.496" y="41.402" smashed="yes" rot="R270">
+<attribute name="CAPACITANCE" value="68nF" x="25.4" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DKPN" value="399-C0603C683K8RAC7867CT-ND" x="25.4" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MANUFACTURER" value="KEMET" x="25.4" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MOPN" value="80-C0603C683K8R" x="25.4" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="MPN" value="C0603C683K8RACTU" x="25.4" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="NAME" x="33.262" y="42.926" size="0.8128" layer="25" font="vector" rot="R270" align="center-right"/>
+<attribute name="TOLERANCE" value="10%" x="25.4" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="VOLTAGE" value="10V" x="25.4" y="40.64" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="C15" library="HyTechDevices" package="0603-CAP" value="CAPACITOR_0603_10V_68NF" x="36.83" y="41.402" smashed="yes" rot="R90">
 <attribute name="CAPACITANCE" value="68nF" x="45.974" y="39.37" size="1.778" layer="27" rot="R90" display="off"/>
@@ -4193,7 +4195,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="KEMET" x="45.974" y="39.37" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MOPN" value="80-C0603C683K8R" x="45.974" y="39.37" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="MPN" value="C0603C683K8RACTU" x="45.974" y="39.37" size="1.778" layer="27" rot="R90" display="off"/>
-<attribute name="NAME" x="36.08" y="41.402" size="0.8128" layer="25" font="vector" rot="R90" align="bottom-center"/>
+<attribute name="NAME" x="36.818" y="42.926" size="0.8128" layer="25" font="vector" rot="R270" align="center-right"/>
 <attribute name="TOLERANCE" value="10%" x="45.974" y="39.37" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VOLTAGE" value="10V" x="45.974" y="39.37" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
@@ -4202,7 +4204,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="25.4" y="38.354" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="25.4" y="38.354" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="25.4" y="38.354" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="26.416" y="40.259" size="0.8128" layer="25" font="vector" rot="R180" align="bottom-center"/>
+<attribute name="NAME" x="27.686" y="41.275" size="0.8128" layer="25" font="vector" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="25.4" y="38.354" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="25.4" y="38.354" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="25.4" y="38.354" size="1.778" layer="27" rot="R180" display="off"/>
@@ -4214,7 +4216,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="Yageo" x="26.924" y="46.228" size="1.778" layer="27" display="off"/>
 <attribute name="MOPN" value="603-RC0603FR-0710KL" x="26.924" y="46.228" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="RC0603FR-0710KL" x="26.924" y="46.228" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="26.162" y="43.815" size="0.8128" layer="25" font="vector" align="bottom-center"/>
+<attribute name="NAME" x="27.686" y="44.831" size="0.8128" layer="25" font="vector" align="center-left"/>
 <attribute name="POWER" value="0.1W" x="26.924" y="46.228" size="1.778" layer="27" display="off"/>
 <attribute name="RESISTANCE" value="10k" x="26.924" y="46.228" size="1.778" layer="27" display="off"/>
 <attribute name="TOLERANCE" value="1%" x="26.924" y="46.228" size="1.778" layer="27" display="off"/>
@@ -4227,7 +4229,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="KEMET" x="26.924" y="33.528" size="1.778" layer="27" display="off"/>
 <attribute name="MOPN" value="80-C0603C683K8R" x="26.924" y="33.528" size="1.778" layer="27" display="off"/>
 <attribute name="MPN" value="C0603C683K8RACTU" x="26.924" y="33.528" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="26.162" y="40.374" size="0.8128" layer="25" font="vector" align="bottom-center"/>
+<attribute name="NAME" x="27.686" y="39.612" size="0.8128" layer="25" font="vector" align="center-left"/>
 <attribute name="TOLERANCE" value="10%" x="26.924" y="33.528" size="1.778" layer="27" display="off"/>
 <attribute name="VOLTAGE" value="10V" x="26.924" y="33.528" size="1.778" layer="27" display="off"/>
 </element>
@@ -4237,7 +4239,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <attribute name="MANUFACTURER" value="KEMET" x="28.194" y="54.102" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MOPN" value="80-C0603C683K8R" x="28.194" y="54.102" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="MPN" value="C0603C683K8RACTU" x="28.194" y="54.102" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="26.162" y="44.208" size="0.8128" layer="25" font="vector" rot="R180" align="bottom-center"/>
+<attribute name="NAME" x="27.686" y="43.168" size="0.8128" layer="25" font="vector" align="center-left"/>
 <attribute name="TOLERANCE" value="10%" x="28.194" y="54.102" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VOLTAGE" value="10V" x="28.194" y="54.102" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
@@ -4608,12 +4610,10 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <signal name="REFERENCE_EXT">
 <contactref element="J5" pad="36"/>
 <contactref element="R43" pad="1"/>
-<wire x1="26.416" y1="34.124" x2="28.106" y2="35.814" width="0.254" layer="1"/>
-<wire x1="28.106" y1="35.814" x2="39.80419375" y2="35.814" width="0.254" layer="1"/>
-<wire x1="40.05819375" y1="35.56" x2="44.45" y2="35.56" width="0.254" layer="1"/>
+<wire x1="26.416" y1="34.124" x2="27.852" y2="35.56" width="0.254" layer="1"/>
+<wire x1="27.852" y1="35.56" x2="44.45" y2="35.56" width="0.254" layer="1"/>
 <wire x1="44.45" y1="35.56" x2="45.45" y2="34.56" width="0.254" layer="1"/>
 <wire x1="45.45" y1="34.56" x2="45.45" y2="34.53" width="0.254" layer="1"/>
-<wire x1="39.80419375" y1="35.814" x2="40.05819375" y2="35.56" width="0.254" layer="1"/>
 </signal>
 <signal name="LOAD_FL">
 <contactref element="J4" pad="5"/>
@@ -5321,7 +5321,7 @@ These design rules are designed to pass any PCB fab (JLCPCB, Advanced Circuits, 
 <contactref element="C2" pad="1"/>
 <wire x1="35.052" y1="42.252" x2="33.274" y2="42.252" width="0.254" layer="1"/>
 <wire x1="33.274" y1="42.252" x2="33.174" y2="42.152" width="0.254" layer="1"/>
-<wire x1="33.174" y1="42.152" x2="31.242" y2="42.152" width="0.254" layer="1"/>
+<wire x1="33.174" y1="42.152" x2="31.496" y2="42.152" width="0.254" layer="1"/>
 </signal>
 <signal name="N$28">
 <contactref element="R30" pad="2"/>
